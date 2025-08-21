@@ -1,10 +1,6 @@
 #As-salamu Alaykum
 # AdminPanelTemplate
-
-
 SoftAppBD Admin Panel Template For Laravel
-
-
 Download to use the underfull admin panel for laravel admin panel
 
 You can develop any kinds of Laravel and ReactJs web application.
